@@ -2,7 +2,7 @@
 Este projeto é uma implementação de um chatbot utilizando a linguagem Python e a biblioteca de código aberto Streamlit para a interface de front-end.
 
 ## Funcionalidades
-<b>Interação em tempo real:</b> Semelhante ao funcionamento do site oficial, você pode interagir com o chatbot em tempo real.
+<b>Interação em tempo real:</b> Semelhante ao funcionamento do site oficial, você pode interagir com o chatbot em tempo real.<br>
 <b>Escolha de modelos:</b> Selecione entre as versões 'gpt-3.5-turbo' e 'gpt-4' para a interação com o chatbot.
 
 ## Configuração
