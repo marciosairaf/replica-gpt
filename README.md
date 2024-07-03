@@ -1,5 +1,5 @@
 # Replica Chat GPT
-Este projeto é uma implementação de um chatbot utilizando a linguagem Python e a biblioteca de código aberto Streamlit para a interface de front-end.
+Este projeto é uma implementação de um chatbot utilizando a linguagem Python e a biblioteca de código aberto, Streamlit, para a interface de front-end.
 
 ## Funcionalidades
 <b>Interação em tempo real:</b> Semelhante ao funcionamento do site oficial, você pode interagir com o chatbot em tempo real.<br>
